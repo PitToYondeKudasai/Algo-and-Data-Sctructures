@@ -2,7 +2,7 @@
 ## Find Largest ##
 ##################
 
-# This code implement a merge sort algorithm to sort a generic array
+# This code implements a merge sort algorithm to sort a generic array
 # and return the largest element
 import math
 
