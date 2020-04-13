@@ -1,7 +1,7 @@
 ####################
 ## Insertion Sort ##
 ####################
-# The following algorith implements the insertion sort
+# The following algorithm implements the insertion sort
 # and prints at every iteration of the outer loop
 # the array so far
 
